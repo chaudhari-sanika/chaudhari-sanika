@@ -26,7 +26,7 @@ Every day is a step forward — learning, building, and improving.
 
 ## 🛠️ Skills
 
-- **Languages:** Python 🐍, SQL 🗄️, C++ 💻  
+- **Languages:** Python 🐍, SQL 🗄️, Java 💻  
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Environments:** Google Colab ☁️, Jupyter Notebook 📒, Git & GitHub 🗃️  
 - **Core Areas:** Data Wrangling, EDA, Data Cleaning, Statistics 📐
@@ -44,7 +44,7 @@ Every day is a step forward — learning, building, and improving.
 
 ## 📬 Connect with Me
 
-- 🔗 LinkedIn: [linkedin](https://linkedin.com/in/sanikachaudhari)  
+- 🔗LinkedIn: [sanikachaudhari](https://linkedin.com/in/sanikachaudhari)  
 - X (Twitter): [@sanika_twts](https://twitter.com/sanika_twts)
 
 ---
