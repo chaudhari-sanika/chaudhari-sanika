@@ -38,7 +38,6 @@ Every day is a step forward — learning, building, and improving.
 - 📁 Build a strong portfolio of **real-world data science projects**  
 - 🧠 Deepen my understanding of **machine learning and AI**  
 - 🌍 Contribute to open-source projects and grow on **Kaggle**  
-- 💼 Become placement-ready for **data and AI-related roles**
 
 ---
 
