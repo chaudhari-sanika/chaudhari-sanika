@@ -44,7 +44,7 @@ Every day is a step forward — learning, building, and improving.
 
 ## 📬 Connect with Me
 
-- 🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/sanikachaudhari)  
+- 🔗 LinkedIn: [linkedin](https://linkedin.com/in/sanikachaudhari)  
 - X (Twitter): [@sanika_twts](https://twitter.com/sanika_twts)
 
 ---
