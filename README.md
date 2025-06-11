@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Sanika Chaudhari
 
 🎓 **MCA Student** 🤖 **AI & Data Enthusiast**  
